@@ -8,13 +8,13 @@ export const aiApps = [
   {
     id: 1,
     name: 'DealAgent',
-    description: 'Advanced AI-powered deal analysis and negotiation assistant that helps you close better deals faster.',
-    benefit: 'Increase deal closure rate by 40% and negotiate better terms',
+    description: 'Deal Agent is an AI-powered assistant that analyzes uploaded RFP documents to provide strategic insights and real-time answers',
+    benefit: ' It helps teams quickly assess bid opportunities, flag risks, and make informed go/no-go decisions',
     category: 'Sales',
     icon: DollarSign,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '../images/dealagent.jpg' // ✅ add path to image
+    image: '../images/dealagent2.png' // ✅ add path to image
   },
   {
     id: 2,
@@ -36,17 +36,17 @@ export const aiApps = [
     icon: FileBarChart,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '/images/financialreport.png'
+    image: '/images/finacialreport.png'
   },
   {
     id: 4,
-    name: 'Support Assistant',
-    description: 'Virtual customer service assistant that handles tickets and improves support satisfaction.',
-    benefit: 'Automate up to 60% of support tickets',
+    name: 'comapany earings',
+    description: 'Quarterly newsletter generation automates the creation and distribution of updates and insights to your audience every three months.',
+    benefit: 'This approach fosters consistent engagement, enhances brand visibility, and efficiently keeps stakeholders informed about key developments, saving both time and resources',
     category: 'Support',
     icon: FileBarChart,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '/images/supportagent.png'
+    image: '/images/comapanyearings.png'
   }
 ];

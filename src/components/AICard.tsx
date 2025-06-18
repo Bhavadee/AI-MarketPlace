@@ -94,7 +94,7 @@ const CarouselContent: React.FC<{ app: AIApp }> = ({ app }) => {
         <img
           src={app.image}
           alt={app.name}
-          className="w-64 h-54 object-contain mx-auto animate-fade-in"
+          className="w-[360px] h-[250px] object-contain mx-auto animate-fade-in"
         />
       )}
       {index === 1 && (
