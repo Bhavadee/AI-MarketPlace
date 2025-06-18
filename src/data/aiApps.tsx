@@ -14,7 +14,7 @@ export const aiApps = [
     icon: DollarSign,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '../images/dealagent2.png' // ✅ add path to image
+    image: 'dealagent2.png' // ✅ add path to image
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const aiApps = [
     icon: Globe,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '/images/newletter.png'
+    image: 'newletter.png'
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const aiApps = [
     icon: FileBarChart,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '/images/finacialreport.png'
+    image: 'finacialreport.png'
   },
   {
     id: 4,
@@ -47,6 +47,6 @@ export const aiApps = [
     icon: FileBarChart,
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
-    image: '/images/comapanyearings.png'
+    image: 'comapanyearings.png'
   }
 ];
