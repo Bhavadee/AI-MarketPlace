@@ -39,7 +39,7 @@ export const aiApps = [
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
     image: 'finacialreport.png',
-    url: 'https://example.com/deal-agent'
+    url: 'https://finance-frontend-nine-mu.vercel.app/'
   },
   {
     id: 4,
@@ -51,6 +51,6 @@ export const aiApps = [
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
     image: 'comapanyearings.png',
-    url: 'https://example.com/deal-agent'
+    url: 'https://v0-new-project-eep09ejmzrq.vercel.app/'
   }
 ];
