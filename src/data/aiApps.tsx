@@ -27,7 +27,7 @@ export const aiApps = [
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
     image: 'newletter.png',
-    url: 'https://example.com/deal-agent'
+    url: 'https://dramatiq-worker-production.up.railway.app'
   },
   {
     id: 3,
