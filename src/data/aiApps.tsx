@@ -51,6 +51,6 @@ export const aiApps = [
     gradient: 'bg-black',
     hoverGradient: 'bg-white',
     image: 'comapanyearings.png',
-    url: 'https://v0-new-project-eep09ejmzrq.vercel.app/'
+    url: 'https://quaterlyproject.netlify.app/'
   }
 ];
