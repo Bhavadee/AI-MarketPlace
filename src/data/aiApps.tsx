@@ -52,5 +52,17 @@ export const aiApps = [
     hoverGradient: 'bg-white',
     image: 'comapanyearings.png',
     url: 'https://quaterlyproject.netlify.app/'
+  },
+  {
+    id: 4,
+    name: 'RFP Response Generator',
+    description: 'The RFP Response Generator is an AI-driven tool that transforms RFP documents into tailored proposal responses. Users can upload a template or let the AI infer one directly from the RFP',
+    benefit: ' It saves time and effort by automating proposal creation with structured, consistent output. Company details are seamlessly integrated to deliver personalized, high-quality responses',
+    category: 'Support',
+    icon: FileBarChart,
+    gradient: 'bg-black',
+    hoverGradient: 'bg-white',
+    image: 'rfpresponse.png',
+    url: 'https://rfp-response-generator.netlify.app/'
   }
 ];
